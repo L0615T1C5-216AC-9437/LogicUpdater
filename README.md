@@ -4,7 +4,7 @@
 A mindustry plugin that checks if logic block code has a newer version. Attem is updated into supply crew.
 
  **ATTENTION:**
-1) We need developers to submit logic code in the [LU](discord.gg/rtC4mmdWZa) server. The more submissions we get, the more old code gets updated.
+1) We need developers to submit logic code in the [LU](https://discord.gg/rtC4mmdWZa) server. The more submissions we get, the more old code gets updated.
 2) The api uses HTTP, not HTTPS, please refrain from attempting to access the api with https requests.
 
 ## Installation Guide
