@@ -1,0 +1,8 @@
+{
+    "author": "L0615T1C5.216AC#9437's cat",
+    "name": "LU",
+    "description": "Checks if logic can be updated",
+    "main": "base.Main",
+    "version": 1.0,
+    "minGameVersion": 142
+}
