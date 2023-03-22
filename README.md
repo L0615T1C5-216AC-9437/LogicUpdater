@@ -13,7 +13,7 @@ A mindustry plugin that checks if logic block code has a newer version. Attem is
 3. Move the mod (`Jar` file) into the mods folder  
 4. Restart the server.  
 5. Use the `mods` command to list all mods. If you see GIB as a mod, GIB was successfully installed.  
-6. Join the LU discord server and use the bot to receive an API key.  
+6. Join the [LU](https://discord.gg/rtC4mmdWZa) discord server and use the bot to receive an API key.  
 7. Config the api key through the `luconfig` command.  
 8. Restart the server once again and look for a successful api connection message.  
 
